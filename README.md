@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm a planetary astronomer who writes software to aid acquisition, refinement, and analysis of astronomical research data observed at large professional observatories. 
+I'm a planetary astronomer who writes software to aid acquisition, refinement, and analysis of astronomical research data observed at large observatories. 
 
 🔭 Check out my projects below! 
 
